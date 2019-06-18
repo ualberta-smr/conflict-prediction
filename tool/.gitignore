@@ -1,0 +1,12 @@
+*.bak
+*.csv
+*.zip
+*.gz
+*.xml
+__pycache__
+**/__pycache__
+./working_dir/logs
+./working_dir/repository
+./working_dir/csv_files
+./.idea/
+./.idea/workspace.xml
