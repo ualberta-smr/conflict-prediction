@@ -1,7 +1,7 @@
 
 # Artifact Page
 
-This is the artifact page for "Predicting Merge Conflicts in Collaborative Software Development" paper.
+This is the artifact page for the ESEM '19 "Predicting Merge Conflicts in Collaborative Software Development" paper by Moein Owhadi-Kareshk, Sarah Nadi, and Julia Rubin.
 
 ## Content
 Here are the main durectories:
